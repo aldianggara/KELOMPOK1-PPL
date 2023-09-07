@@ -1,4 +1,10 @@
 # KELOMPOK1-PPL
+Halaman Home
+Data User
+Data Kamar
+Data Komplain
+Data Booking
+Riwayat Booking
 
 <img width="471" alt="image" src="https://github.com/aldianggara/KELOMPOK1-PPL/assets/114654534/e20a99e7-d3ef-4515-9c7f-1d840b69f2db">
 
